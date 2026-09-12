@@ -1,6 +1,6 @@
 var icebreakers = [
-'Favorite breed of dog?',
-'Earliest memory of the internet?',
+'¿Cuál es tu raza favorita de perros?',
+'¿Cuál es tu primer recuerdo del internet?',
 'What are you nerdy about?',
 'Favorite sandwich?',
 'What’s a word that you knew what it meant but never knew how to pronounce?',
